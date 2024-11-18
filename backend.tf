@@ -3,6 +3,6 @@ terraform {
     bucket = "mydevopslabtestbucket"
     key = "main"
     region = "ca-central-1"
-    dynamodb_table = "mydevopslabtestbucketdymodb"
+    # dynamodb_table = "mydevopslabtestbucketdymodb"
   }
 }
